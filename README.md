@@ -36,7 +36,7 @@ Twelves:  13
 
 (b) Improve the program by allowing the user to enter the number of dice pairs to roll. Enhance the output so that  it graphs the final results as a line of stars instead of displaying the numerical values:
 ```
-Twos:		  ****************
+Twos:     ****************
 Threes:   ************************
 Fours:    *******************************************
 ...
