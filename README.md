@@ -1,4 +1,4 @@
-# P1-1 Random Numbers Practice
+# p1-1 Random Numbers Practice
 
 Create new NetBeans projects as you deem necessary to complete the exercises below. Ensure that all new NetBeans projects are created inside the same directory where this repository was cloned.
 
